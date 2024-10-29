@@ -1,0 +1,30 @@
+[1.317s] Invoking command in '/home/leelang/auto_ws/src/self_driving_car_pkg': PYTHONPATH=/home/leelang/auto_ws/src/build/self_driving_car_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leelang/auto_ws/src/install/self_driving_car_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/self_driving_car_pkg build --build-base /home/leelang/auto_ws/src/build/self_driving_car_pkg/build install --record /home/leelang/auto_ws/src/build/self_driving_car_pkg/install.log --single-version-externally-managed install_data
+[1.735s] running egg_info
+[1.735s] writing ../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/PKG-INFO
+[1.736s] writing dependency_links to ../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/dependency_links.txt
+[1.736s] writing entry points to ../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/entry_points.txt
+[1.736s] writing requirements to ../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/requires.txt
+[1.736s] writing top-level names to ../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/top_level.txt
+[1.739s] reading manifest file '../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/SOURCES.txt'
+[1.741s] writing manifest file '../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/SOURCES.txt'
+[1.742s] running build
+[1.742s] running build_py
+[1.742s] running install
+[1.742s] running install_lib
+[1.743s] creating /home/leelang/auto_ws/src/install/self_driving_car_pkg/lib/python3.10/site-packages/self_driving_car_pkg
+[1.743s] copying /home/leelang/auto_ws/src/build/self_driving_car_pkg/build/lib/self_driving_car_pkg/__init__.py -> /home/leelang/auto_ws/src/install/self_driving_car_pkg/lib/python3.10/site-packages/self_driving_car_pkg
+[1.744s] byte-compiling /home/leelang/auto_ws/src/install/self_driving_car_pkg/lib/python3.10/site-packages/self_driving_car_pkg/__init__.py to __init__.cpython-310.pyc
+[1.744s] running install_data
+[1.745s] creating /home/leelang/auto_ws/src/install/self_driving_car_pkg/share/ament_index
+[1.745s] creating /home/leelang/auto_ws/src/install/self_driving_car_pkg/share/ament_index/resource_index
+[1.745s] creating /home/leelang/auto_ws/src/install/self_driving_car_pkg/share/ament_index/resource_index/packages
+[1.745s] copying resource/self_driving_car_pkg -> /home/leelang/auto_ws/src/install/self_driving_car_pkg/share/ament_index/resource_index/packages
+[1.745s] copying package.xml -> /home/leelang/auto_ws/src/install/self_driving_car_pkg/share/self_driving_car_pkg
+[1.745s] creating /home/leelang/auto_ws/src/install/self_driving_car_pkg/share/self_driving_car_pkg/launch
+[1.745s] copying launch/world_gazebo.launch.py -> /home/leelang/auto_ws/src/install/self_driving_car_pkg/share/self_driving_car_pkg/launch
+[1.746s] creating /home/leelang/auto_ws/src/install/self_driving_car_pkg/share/self_driving_car_pkg/worlds
+[1.746s] running install_egg_info
+[1.749s] Copying ../build/self_driving_car_pkg/self_driving_car_pkg.egg-info to /home/leelang/auto_ws/src/install/self_driving_car_pkg/lib/python3.10/site-packages/self_driving_car_pkg-0.0.0-py3.10.egg-info
+[1.753s] running install_scripts
+[1.787s] writing list of installed files to '/home/leelang/auto_ws/src/build/self_driving_car_pkg/install.log'
+[1.838s] Invoked command in '/home/leelang/auto_ws/src/self_driving_car_pkg' returned '0': PYTHONPATH=/home/leelang/auto_ws/src/build/self_driving_car_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leelang/auto_ws/src/install/self_driving_car_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/self_driving_car_pkg build --build-base /home/leelang/auto_ws/src/build/self_driving_car_pkg/build install --record /home/leelang/auto_ws/src/build/self_driving_car_pkg/install.log --single-version-externally-managed install_data

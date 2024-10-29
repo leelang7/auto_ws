@@ -1,0 +1,22 @@
+[0.695s] Invoking command in '/home/leelang/auto_ws/src/self_driving_car_pkg': PYTHONPATH=/home/leelang/auto_ws/build/self_driving_car_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leelang/auto_ws/install/self_driving_car_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/self_driving_car_pkg build --build-base /home/leelang/auto_ws/build/self_driving_car_pkg/build install --record /home/leelang/auto_ws/build/self_driving_car_pkg/install.log --single-version-externally-managed install_data
+[0.942s] running egg_info
+[0.943s] writing ../../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/PKG-INFO
+[0.943s] writing dependency_links to ../../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/dependency_links.txt
+[0.943s] writing entry points to ../../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/entry_points.txt
+[0.944s] writing requirements to ../../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/requires.txt
+[0.944s] writing top-level names to ../../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/top_level.txt
+[0.945s] reading manifest file '../../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/SOURCES.txt'
+[0.946s] writing manifest file '../../build/self_driving_car_pkg/self_driving_car_pkg.egg-info/SOURCES.txt'
+[0.946s] running build
+[0.946s] running build_py
+[0.946s] running install
+[0.947s] running install_lib
+[0.948s] running install_data
+[0.948s] copying worlds/sdc.world -> /home/leelang/auto_ws/install/self_driving_car_pkg/share/self_driving_car_pkg/worlds
+[0.949s] running install_egg_info
+[0.951s] removing '/home/leelang/auto_ws/install/self_driving_car_pkg/lib/python3.10/site-packages/self_driving_car_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.951s] Copying ../../build/self_driving_car_pkg/self_driving_car_pkg.egg-info to /home/leelang/auto_ws/install/self_driving_car_pkg/lib/python3.10/site-packages/self_driving_car_pkg-0.0.0-py3.10.egg-info
+[0.952s] running install_scripts
+[0.974s] Installing drive_node script to /home/leelang/auto_ws/install/self_driving_car_pkg/lib/self_driving_car_pkg
+[0.974s] writing list of installed files to '/home/leelang/auto_ws/build/self_driving_car_pkg/install.log'
+[0.999s] Invoked command in '/home/leelang/auto_ws/src/self_driving_car_pkg' returned '0': PYTHONPATH=/home/leelang/auto_ws/build/self_driving_car_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leelang/auto_ws/install/self_driving_car_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/self_driving_car_pkg build --build-base /home/leelang/auto_ws/build/self_driving_car_pkg/build install --record /home/leelang/auto_ws/build/self_driving_car_pkg/install.log --single-version-externally-managed install_data

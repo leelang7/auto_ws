@@ -1,0 +1,3 @@
+[console_scripts]
+drive_node = self_driving_car_pkg.drive_node:main
+
